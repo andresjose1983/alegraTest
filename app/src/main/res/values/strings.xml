@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">alegraTest</string>
+    <string name="contact_deleted">Contact deleted</string>
+    <string name="search">Search</string>
+    <string name="contact_detail">Contact detail</string>
+    <string name="please_wait">Please wait</string>
+    <string name="submitting">Submitting&#8230;</string>
+    <string name="contact_added">Contact added&#8230;</string>
+    <string name="invalid_email">Invalid email&#8230;</string>
+
+    <string-array name="contact_type">
+        <item>Client</item>
+        <item>Provider</item>
+    </string-array>
+</resources>
